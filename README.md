@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**hodasheikhany23/hodasheikhany23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python  
+from Earth.Human import Me  
 
-Here are some ideas to get you started:
+class HodaSheikhani(ME):
+  full_name : "Hoda Sheikhany"
+  age : 18
+  education : "Software Engineering student"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  programming_lang : [ 'python', 'c++' , 'c#', 'java script', 'html & css' ]
+  libraries : [ 'Django', 'Bootstrap' ]
+
+
+  Learning = [
+    " learning Django REST",
+    " learning react.js ",
+    ]
+
+
+  More = [
+    " UI/UX Designer " ,
+    " work as Freelance ",
+    ]
+
+  
+  
+
