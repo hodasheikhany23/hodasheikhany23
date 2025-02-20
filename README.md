@@ -7,13 +7,13 @@ class HodaSheikhani(ME):
   age : 18
   education : "Software Engineering student"
 
-  programming_lang : [ 'python', 'c++' , 'c#', 'java script', 'html & css' ]
+  programming_lang : [ 'python', 'php' , 'c#', 'java script', 'html & css' ]
   libraries : [ 'Django', 'Bootstrap' ]
 
 
   Learning = [
     " learning Django REST",
-    " learning react.js ",
+    " learning PHP and Laravel ",
     ]
 
 
