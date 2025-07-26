@@ -7,8 +7,8 @@ class HodaSheikhani(ME):
   age : 19
   education : "Software Engineering student"
 
-  programming_lang : [ 'python', 'php' , 'java script', 'html & css' ]
-  libraries : [ 'Django', 'Bootstrap' ]
+  programming_lang : [ 'php', 'python' , 'java script', 'html & css' ]
+  libraries : [ 'Lararvel', 'Django', 'Bootstrap' ]
 
 
   Learning = [
